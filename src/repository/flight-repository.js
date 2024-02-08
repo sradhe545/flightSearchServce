@@ -73,9 +73,3 @@ class FlightRepository {
 }
 
 module.exports = FlightRepository;
-/*
-{
-    where: {}
-}
-
-*/
